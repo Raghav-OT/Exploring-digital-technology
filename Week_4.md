@@ -1,0 +1,2 @@
+# Week 4
+In this week we learned about Ubuntu and powershell, how to use these command shells to access files, create and add directories, add shortcuts to applications such that opening them can be enabled by just typing the name. In the first class of this week we learnt using Ubuntu, but due to complications in the working of linux systems in windows, we ended up using powershell in the second class and how to work with it.
